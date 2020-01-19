@@ -6,6 +6,3 @@
 * [1.3. Linear Transformations and Matrices](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.03%20ANN%20and%20its%20layers.ipynb)
 * [1.4. Gaussian Elimination and Matrix Inversion](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.04%20Exploring%20activation%20functions.ipynb)
 * [1.5. Eigenvalue and Eigenvectors](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.09%20Building%20Neural%20Network%20from%20scratch.ipynb)
-* [1.6. Summary](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.09%20Building%20Neural%20Network%20from%20scratch.ipynb)
-* [1.7. Questions](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.09%20Building%20Neural%20Network%20from%20scratch.ipynb)
-* [1.8. Further Reading](https://github.com/sudharsan13296/Hands-On-Deep-Learning-Algorithms-with-Python/blob/master/01.%20Introduction%20to%20Deep%20Learning/1.09%20Building%20Neural%20Network%20from%20scratch.ipynb)
